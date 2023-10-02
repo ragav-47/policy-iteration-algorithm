@@ -75,8 +75,7 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## Output
-![Uploading image.png…]()
-
+![image](https://github.com/ragav-47/policy-iteration-algorithm/assets/75235488/62159594-d63c-4578-93c9-c2902edbe3a4)
 
 ## Conclusion
 
