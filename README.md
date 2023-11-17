@@ -1,4 +1,4 @@
-# POLICY ITERATION ALGORITHM
+# <p align="center">POLICY ITERATION ALGORITHM
 ## AIM:
 The aim of this experiment is to apply the Policy Iteration algorithm to find the optimal policy for a given Markov Decision Process (MDP).
 
